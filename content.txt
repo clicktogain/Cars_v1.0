@@ -1,0 +1,54 @@
+home,shop, 360° showroom tour, about, book test drive
+
+Porsche 911 GT3 RS
+
+Top Speed: 193 mph
+Power: 502 hp
+Price: $187,500
+
+
+Rolls Royce Ghost Aet Chauffeurs
+
+Top Speed: 155 mph
+Power: 563 hp
+Price: $311,900
+
+
+Lamborghini Aventador
+
+Top Speed: 217 mph
+Power: 769 hp
+Price: $393,695
+
+
+About:
+Our Legacy of Luxury
+
+At Cars., we are dedicated to crafting vehicles that embody the essence of luxury and performance. Each model is a seamless fusion of cutting-edge technology, meticulous craftsmanship, and timeless design, offering an unparalleled driving experience. Our commitment to quality ensures that every detail, from the powerful engines to the exquisite interiors, meets the highest standards of sophistication and precision.
+
+With a rich legacy in the automotive industry, Cars. continues to push the boundaries of innovation while honoring our heritage of excellence. We strive to create cars that are not just a mode of transportation, but a statement of elegance and power, designed for those who appreciate the finer things in life.
+
+
+Shop:
+Explore Our Exclusive Collection
+
+
+
+Test Booking:
+
+Book Your Test Drive
+
+Form Fields:
+Full Name: (Text Input)
+Email Address: (Email Input)
+Phone Number: (Phone Input)
+Select Car Model: (Dropdown Menu)
+Porsche 911 GT3 RS
+Rolls Royce Ghost Aet Chauffeurs
+Lamborghini Aventador
+Preferred Date: (Date Input)
+Preferred Time: (Time Input)
+Message/Additional Requests: (Text Area)
+Submit Button:
+Request Test Drive
+
